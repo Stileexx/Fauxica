@@ -105,6 +105,7 @@ h1 {
   text-decoration: none;
   color: black;
   display: block;
+  padding: 1em 0;
 }
 
 .secondary-cta svg {
